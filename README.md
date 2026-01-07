@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @AnanyaAdivi
 - 👀 I’m interested in research
 - 🌱 I’m currently doing btech cse
-- 💞️ I’m looking to collaborate on ...idk
-- 📫 How to reach me ...idk 
+- 📫 Can reach me through adiviananya@gmail and www.linkedin.com/in/ananya-adivi-9b6056345
 - 😄 Pronouns: ...her
-- ⚡ Fun fact: ...im not fun at all
-- 
 
 <!---
 AnanyaAdivi/AnanyaAdivi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
