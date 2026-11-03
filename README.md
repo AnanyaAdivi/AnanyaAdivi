@@ -7,7 +7,7 @@
   <img src="./assets/profile-banner.svg" width="100%" alt="Ananya Adivi — midnight, ice-blue and teal research banner"/>
   <br/>
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=850&color=8FE3EA&center=true&vCenter=true&width=760&height=45&lines=Exploring+Reliable+AI+%26+Explainability;Building+intelligent%2C+human-centred+systems;Learning+through+research%2C+experiments+%26+engineering"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=17&duration=2800&pause=850&color=8FE3EA&center=true&vCenter=true&width=760&height=45&lines=Exploring+Reliable+AI+%26+Explainability;Building+intelligent%2C+human-centred+systems;Learning+through+research%2C+experiments+%26+engineering"
     alt="Animated tagline"
   />
   <br/>
@@ -77,17 +77,15 @@ A hybrid Android malware analysis workflow combining APK structural analysis, st
 
 <sub>Project is under development; results and implementation details are still evolving.</sub>
 
-### 03 — RuralDR-X: Explainable AI for Diabetic Retinopathy Screening in Rural India
-**Smart India Hackathon · SIH26038 / PSC26038 · In progress**
+### 03 — Explainable AI for Diabetic Retinopathy Screening in Rural India
+**Smart India Hackathon · SIH26038 · Completed**
 
-A research-oriented screening concept for diabetic retinopathy, designed around image quality, model predictions, and visual evidence that can support clinical review.
+An explainable AI-based diabetic retinopathy screening system designed to support image assessment and make model predictions easier to interpret during clinical review.
 
-- **Dataset direction:** APTOS, with external validation references including IDRiD and Messidor
-- **Model direction:** EfficientNet-B3-based five-grade classification
-- **Explainability:** Grad-CAM visual evidence to help inspect model attention
+- **Dataset:** APTOS, with IDRiD and Messidor considered for validation
+- **Model:** EfficientNet-B3-based five-grade classification
+- **Explainability:** Grad-CAM visual evidence to inspect model attention
 - **Goal:** Quality-aware screening and clearer referral-oriented decision support for rural workflows
-
-<sub>Current work includes model and explanation-pipeline development; broader validation is ongoing.</sub>
 
 ---
 
@@ -106,7 +104,7 @@ A research-oriented screening concept for diabetic retinopathy, designed around 
 
 ## 05 / Currently focused on
 
-- **Building:** Android malware detection and the RuralDR-X diabetic retinopathy screening project.
+- **Building:** Android malware detection.
 - **Learning:** Deeper foundations in reliable machine learning, explainability, and uncertainty-aware modelling.
 - **Exploring:** How to evaluate intelligent systems beyond a single accuracy score.
 
