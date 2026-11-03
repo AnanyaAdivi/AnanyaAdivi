@@ -4,30 +4,18 @@
 -->
 
 <div align="center">
-
   <img src="./assets/profile-banner.svg" width="100%" alt="Ananya Adivi — Data Science and AI"/>
-
   <br/>
-
   <img
     src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&duration=3000&pause=950&color=9BE4E6&center=true&vCenter=true&width=780&height=48&lines=Finding+insight+in+data%2C+building+with+AI;Exploring+Data+Science+%26+Intelligent+Systems;Interested+in+Reliable+AI+%26+Explainability"
     alt="Animated introduction"
   />
-
-  <br/><br/>
-
-  <a href="https://www.linkedin.com/in/ananya-adivi-9b6056345/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-24525B?style=for-the-badge&labelColor=13232D&logo=linkedin&logoColor=9CE8E8" alt="LinkedIn"/>
-  </a>
+  <br/>
+  <a href="https://www.linkedin.com/in/ananya-adivi-9b6056345/"><img src="https://img.shields.io/badge/LinkedIn-Connect-24525B?style=for-the-badge&labelColor=13232D&logo=linkedin&logoColor=9CE8E8" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="mailto:adiviananya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-24525B?style=for-the-badge&labelColor=13232D&logo=gmail&logoColor=9CE8E8" alt="Email"/>
-  </a>
-
-  <br/><br/>
-
+  <a href="mailto:adiviananya@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-24525B?style=for-the-badge&labelColor=13232D&logo=gmail&logoColor=9CE8E8" alt="Email"/></a>
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=AnanyaAdivi&style=flat-square&color=24525B&label=PROFILE+VIEWS" alt="Profile visits"/>
-
 </div>
 
 ---
