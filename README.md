@@ -14,13 +14,11 @@
   <a href="https://www.linkedin.com/in/ananya-adivi-9b6056345/"><img src="https://img.shields.io/badge/LinkedIn-Connect-24525B?style=for-the-badge&labelColor=13232D&logo=linkedin&logoColor=9CE8E8" alt="LinkedIn"/></a>
   &nbsp;
   <a href="mailto:adiviananya@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-24525B?style=for-the-badge&labelColor=13232D&logo=gmail&logoColor=9CE8E8" alt="Email"/></a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=AnanyaAdivi&style=flat-square&color=24525B&label=PROFILE+VIEWS" alt="Profile visits"/>
 </div>
 
 ---
 
-## 01 / About
+## About
 
 I’m a **B.Tech Computer Science undergraduate specializing in Data Science & AI**, equally drawn to the art of understanding data and the science of building intelligent systems.
 
@@ -36,7 +34,7 @@ My interests span **Data Science & Analytics, Machine Learning, Deep Learning, R
 
 ---
 
-## 02 / Areas of interest
+## Areas of interest
 
 <table>
   <tr>
@@ -63,7 +61,7 @@ My interests span **Data Science & Analytics, Machine Learning, Deep Learning, R
 
 ---
 
-## 03 / Projects
+## Projects
 
 <table>
   <tr>
@@ -110,7 +108,7 @@ My interests span **Data Science & Analytics, Machine Learning, Deep Learning, R
 
 ---
 
-## 04 / Tools & technologies
+## Tools & technologies
 
 <div align="center">
 
@@ -145,7 +143,7 @@ My interests span **Data Science & Analytics, Machine Learning, Deep Learning, R
 
 ---
 
-## 05 / Currently exploring
+## Currently exploring
 
 - **Building:** Android malware detection through hybrid APK analysis and classification.
 - **Strengthening:** Data analysis, statistics, exploratory analysis, feature engineering, and model evaluation.
@@ -154,7 +152,7 @@ My interests span **Data Science & Analytics, Machine Learning, Deep Learning, R
 
 ---
 
-## 06 / GitHub activity
+## GitHub activity
 
 <div align="center">
 
