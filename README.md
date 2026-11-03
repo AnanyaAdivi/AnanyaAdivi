@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Ananya Adivi — midnight, ice-blue and teal research banner"/>
+  <img src="./assets/profile-banner.svg" width="100%" alt="Ananya Adivi — midnight, ice-blue and teal editorial banner"/>
   <br/>
   <img
     src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&duration=3000&pause=950&color=9BE4E6&center=true&vCenter=true&width=780&height=48&lines=Finding+insight+in+data%2C+building+with+AI;Exploring+Data+Science+%26+Intelligent+Systems;Interested+in+Reliable+AI+%26+Explainability"
@@ -23,7 +23,7 @@
 
 ---
 
-## 01 / About
+## About
 
 I’m a **B.Tech Computer Science undergraduate specializing in Data Science & AI** with a strong interest in both **Data Science and Artificial Intelligence**. I enjoy working with data to discover patterns, ask meaningful questions, build statistical intuition, and turn analysis into useful insights.
 
@@ -33,7 +33,7 @@ I’m equally interested in developing intelligent models and understanding the 
 
 ---
 
-## 02 / Research & technical interests
+## Research & technical interests
 
 <table>
   <tr>
@@ -58,9 +58,9 @@ I’m equally interested in developing intelligent models and understanding the 
 
 ---
 
-## 03 / Selected projects
+## Selected projects
 
-### 01 — Network Intrusion Detection System with Explainability
+### Network Intrusion Detection System with Explainability
 **Machine Learning · Cybersecurity · Explainable AI**
 
 A network intrusion detection system built to identify malicious traffic while making model decisions easier to inspect.
@@ -71,7 +71,7 @@ A network intrusion detection system built to identify malicious traffic while m
 
 <sub>Repository link is not currently published on this profile.</sub>
 
-### 02 — Android Malware Detection
+### Android Malware Detection
 **Faculty-guided project · 2026 · In progress**
 
 A hybrid Android malware analysis workflow combining APK structural analysis, static and dynamic behavioural profiling, and LLM-assisted classification.
@@ -81,7 +81,7 @@ A hybrid Android malware analysis workflow combining APK structural analysis, st
 
 <sub>Project is under development; results and implementation details are still evolving.</sub>
 
-### 03 — Explainable AI for Diabetic Retinopathy Screening in Rural India
+### Explainable AI for Diabetic Retinopathy Screening in Rural India
 **Smart India Hackathon · SIH26038 · Completed**
 
 An explainable AI-based diabetic retinopathy screening system designed to support image assessment and make model predictions easier to interpret during clinical review.
@@ -93,7 +93,7 @@ An explainable AI-based diabetic retinopathy screening system designed to suppor
 
 ---
 
-## 04 / Technology
+## Technology
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,typescript,mysql,postgres,git,github,pytorch,tensorflow&theme=dark&perline=7" alt="Technology stack"/>
@@ -106,7 +106,7 @@ An explainable AI-based diabetic retinopathy screening system designed to suppor
 
 ---
 
-## 05 / Currently focused on
+## Currently focused on
 
 - **Building:** Android malware detection.
 - **Learning:** Stronger foundations in data analysis, statistics, machine learning, and uncertainty-aware modelling.
@@ -114,7 +114,7 @@ An explainable AI-based diabetic retinopathy screening system designed to suppor
 
 ---
 
-## 06 / GitHub activity
+## GitHub activity
 
 <div align="center">
   <img
