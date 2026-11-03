@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="./assets/profile-banner-final.svg" width="100%" alt="Ananya Adivi — Data Science and AI"/>
+  <img src="./assets/profile-banner.svg" width="100%" alt="Ananya Adivi — Data Science and AI"/>
 
   <br/>
 
@@ -17,22 +17,22 @@
   <br/><br/>
 
   <a href="https://www.linkedin.com/in/ananya-adivi-9b6056345/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-24525B?style=for-the-badge&labelColor=13232D&logo=linkedin&logoColor=9CE8E8" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-24525B?style=for-the-badge&labelColor=13232D&logo=linkedin&logoColor=9CE8E8" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:adiviananya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_hello-24525B?style=for-the-badge&labelColor=13232D&logo=gmail&logoColor=9CE8E8" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-24525B?style=for-the-badge&labelColor=13232D&logo=gmail&logoColor=9CE8E8" alt="Email"/>
   </a>
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=AnanyaAdivi&style=flat-square&color=24525B&label=PROFILE+VISITS" alt="Profile visits"/>
+  <img src="https://komarev.com/ghpvc/?username=AnanyaAdivi&style=flat-square&color=24525B&label=PROFILE+VIEWS" alt="Profile visits"/>
 
 </div>
 
 ---
 
-## About
+## 01 / About
 
 I’m a **B.Tech Computer Science undergraduate specializing in Data Science & AI**, equally drawn to the art of understanding data and the science of building intelligent systems.
 
@@ -48,7 +48,7 @@ My interests span **Data Science & Analytics, Machine Learning, Deep Learning, R
 
 ---
 
-## Areas of interest
+## 02 / Areas of interest
 
 <table>
   <tr>
@@ -75,7 +75,7 @@ My interests span **Data Science & Analytics, Machine Learning, Deep Learning, R
 
 ---
 
-## Projects
+## 03 / Projects
 
 <table>
   <tr>
@@ -122,7 +122,7 @@ My interests span **Data Science & Analytics, Machine Learning, Deep Learning, R
 
 ---
 
-## Tools & technologies
+## 04 / Tools & technologies
 
 <div align="center">
 
@@ -157,7 +157,7 @@ My interests span **Data Science & Analytics, Machine Learning, Deep Learning, R
 
 ---
 
-## Currently exploring
+## 05 / Currently exploring
 
 - **Building:** Android malware detection through hybrid APK analysis and classification.
 - **Strengthening:** Data analysis, statistics, exploratory analysis, feature engineering, and model evaluation.
@@ -166,7 +166,7 @@ My interests span **Data Science & Analytics, Machine Learning, Deep Learning, R
 
 ---
 
-## GitHub activity
+## 06 / GitHub activity
 
 <div align="center">
 
