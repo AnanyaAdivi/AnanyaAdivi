@@ -7,7 +7,7 @@
   <img src="./assets/profile-banner.svg" width="100%" alt="Ananya Adivi — midnight, ice-blue and teal research banner"/>
   <br/>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=17&duration=2800&pause=850&color=8FE3EA&center=true&vCenter=true&width=760&height=45&lines=Exploring+Reliable+AI+%26+Explainability;Building+intelligent%2C+human-centred+systems;Learning+through+research%2C+experiments+%26+engineering"
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=18&duration=2800&pause=850&color=8FE3EA&center=true&vCenter=true&width=780&height=48&lines=Finding+insight+in+data%2C+building+with+AI;Exploring+Data+Science+%26+Intelligent+Systems;Interested+in+Reliable+AI+%26+Explainability"
     alt="Animated tagline"
   />
   <br/>
@@ -25,29 +25,33 @@
 
 ## 01 / About
 
-I’m a **B.Tech Computer Science undergraduate specializing in Data Science & AI**, interested in understanding how intelligent systems work, where they fail, and how to make them more reliable.
+I’m a **B.Tech Computer Science undergraduate specializing in Data Science & AI** with a strong interest in both **Data Science and Artificial Intelligence**. I enjoy working with data to discover patterns, ask meaningful questions, build statistical intuition, and turn analysis into useful insights.
 
-My work spans machine learning, deep learning, explainable AI, computer vision, cybersecurity, and full-stack development. I enjoy taking problems from exploration and experimentation to practical, interpretable systems.
+I’m equally interested in developing intelligent models and understanding the data behind them—from data collection, cleaning and exploratory analysis to feature engineering, modelling, evaluation and interpretation. My broader interests include machine learning, deep learning, explainable AI, computer vision, cybersecurity, and data-driven problem solving.
 
-**Current direction:** Reliable AI · Explainable AI · Applied Machine Learning
+**Core interests:** Data Science & Analytics · Machine Learning · Reliable & Explainable AI
 
 ---
 
-## 02 / Research interests
+## 02 / Research & technical interests
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <strong>Data Science & Analytics</strong><br/>
+      <sub>Exploratory data analysis, statistical reasoning, data visualisation, feature engineering, pattern discovery and insight generation.</sub>
+    </td>
+    <td width="25%" valign="top">
+      <strong>Machine Learning & AI</strong><br/>
+      <sub>Predictive modelling, deep learning, model evaluation, representation learning and applied intelligent systems.</sub>
+    </td>
+    <td width="25%" valign="top">
       <strong>Reliable & Explainable AI</strong><br/>
-      <sub>Uncertainty estimation, model calibration, interpretability, trustworthy predictions.</sub>
+      <sub>Uncertainty estimation, model calibration, interpretability and trustworthy predictions.</sub>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <strong>Computer Vision</strong><br/>
-      <sub>Medical imaging, visual recognition, explainability, image-based decision support.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Applied Machine Learning</strong><br/>
-      <sub>Deep learning, data science, intelligent security systems, real-world deployment.</sub>
+      <sub>Medical imaging, visual recognition, image understanding and explainable decision support.</sub>
     </td>
   </tr>
 </table>
@@ -96,7 +100,7 @@ An explainable AI-based diabetic retinopathy screening system designed to suppor
 </div>
 
 <p align="center">
-  <sub><strong>Machine learning:</strong> Scikit-learn · NumPy · Pandas · SHAP</sub><br/>
+  <sub><strong>Data & machine learning:</strong> NumPy · Pandas · Scikit-learn · SHAP</sub><br/>
   <sub><strong>Tools & development:</strong> MobSF · Dash · Plotly · Flask · Git</sub>
 </p>
 
@@ -105,8 +109,8 @@ An explainable AI-based diabetic retinopathy screening system designed to suppor
 ## 05 / Currently focused on
 
 - **Building:** Android malware detection.
-- **Learning:** Deeper foundations in reliable machine learning, explainability, and uncertainty-aware modelling.
-- **Exploring:** How to evaluate intelligent systems beyond a single accuracy score.
+- **Learning:** Stronger foundations in data analysis, statistics, machine learning, and uncertainty-aware modelling.
+- **Exploring:** How to move from raw data to reliable insights and intelligent systems.
 
 ---
 
