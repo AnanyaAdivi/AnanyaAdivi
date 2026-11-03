@@ -4,22 +4,20 @@
 -->
 
 <div align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Ananya Adivi — midnight, ice-blue and teal research banner"/>
+  <br/>
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,48:18313B,100:24525B&height=220&section=header&text=ANANYA%20ADIVI&fontSize=52&fontColor=EAF5F7&fontAlignY=38&desc=DATA%20SCIENCE%20%26%20AI%20%E2%80%A2%20RESEARCH%20%E2%80%A2%20ENGINEERING&descAlignY=59&descSize=14&animation=fadeIn"
-    width="100%"
-    alt="Ananya Adivi — Data Science and AI"
-  />
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=850&color=8FE3EA&center=true&vCenter=true&width=700&height=45&lines=Exploring+Reliable+AI+%26+Explainability;Building+intelligent%2C+human-centred+systems;Learning+through+research%2C+experiments+%26+engineering"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=850&color=8FE3EA&center=true&vCenter=true&width=760&height=45&lines=Exploring+Reliable+AI+%26+Explainability;Building+intelligent%2C+human-centred+systems;Learning+through+research%2C+experiments+%26+engineering"
     alt="Animated tagline"
   />
   <br/>
   <a href="https://www.linkedin.com/in/ananya-adivi-9b6056345/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-18313B?style=flat-square&logo=linkedin&logoColor=8FE3EA" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-24525B?style=for-the-badge&labelColor=13232D&logo=linkedin&logoColor=9CE8E8" alt="LinkedIn"/>
   </a>
   <a href="mailto:adiviananya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-18313B?style=flat-square&logo=gmail&logoColor=8FE3EA" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-24525B?style=for-the-badge&labelColor=13232D&logo=gmail&logoColor=9CE8E8" alt="Email"/>
   </a>
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=AnanyaAdivi&style=flat-square&color=24525B&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
@@ -149,10 +147,6 @@ A research-oriented screening concept for diabetic retinopathy, designed around 
 
 <div align="center">
   <sub>Curiosity is the starting point. Evidence is the standard.</sub>
-  <br/><br/>
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:24525B,52:18313B,100:101820&height=100&section=footer"
-    width="100%"
-    alt=""
-  />
+  <br/>
+  <sub>Built with intention · Updated November 2026</sub>
 </div>
