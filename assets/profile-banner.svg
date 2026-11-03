@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Ananya Adivi — Data Science and AI</title>
+  <desc id="desc">A midnight charcoal research banner with ice-blue and teal accents, a geometric neural-network motif, and the name Ananya Adivi.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1118"/>
+      <stop offset="55%" stop-color="#13232D"/>
+      <stop offset="100%" stop-color="#173D46"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#67C9D2"/>
+      <stop offset="100%" stop-color="#B5F0EA"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#67C9D2" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#67C9D2" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#B5F0EA" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <circle cx="1010" cy="142" r="245" fill="url(#glow)"/>
+  <path d="M0 286H1200" stroke="#76D5DB" stroke-opacity=".28"/>
+  <path d="M0 18H1200" stroke="#D7F5F2" stroke-opacity=".12"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="1.5" stroke-opacity=".62">
+    <path d="M830 78L930 132L1048 70L1132 132L1055 228L930 196L830 246L760 170Z"/>
+    <path d="M930 132L930 196M1048 70L1055 228M830 78L830 246M1132 132L1055 228"/>
+    <circle cx="930" cy="132" r="30" stroke-opacity=".32"/>
+    <circle cx="1055" cy="228" r="42" stroke-opacity=".2"/>
+  </g>
+  <g fill="#9CE8E8">
+    <circle cx="830" cy="78" r="4"/><circle cx="930" cy="132" r="5"/>
+    <circle cx="1048" cy="70" r="4"/><circle cx="1132" cy="132" r="4"/>
+    <circle cx="1055" cy="228" r="5"/><circle cx="930" cy="196" r="3.5"/>
+    <circle cx="830" cy="246" r="4"/><circle cx="760" cy="170" r="3.5"/>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="78" y="82" fill="#9CE8E8" font-size="15" font-weight="600" letter-spacing="4">COMPUTER SCIENCE  /  DATA SCIENCE &amp; AI</text>
+    <text x="74" y="166" fill="#F0F7F8" font-size="66" font-weight="700" letter-spacing="-2">ANANYA ADIVI</text>
+    <rect x="80" y="193" width="82" height="4" rx="2" fill="url(#accent)"/>
+    <text x="80" y="239" fill="#C5D7DD" font-size="20" font-weight="400" letter-spacing=".5">Research-minded. Evidence-driven. Building intelligent systems.</text>
+    <text x="80" y="282" fill="#79C9D1" font-size="12" font-weight="600" letter-spacing="3">RELIABLE AI   ·   EXPLAINABILITY   ·   MACHINE LEARNING</text>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="318.5" rx="17.25" fill="none" stroke="#9CE8E8" stroke-opacity=".22" stroke-width="1.5"/>
+</svg>
