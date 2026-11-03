@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="./assets/profile-banner.svg" width="80%" alt="Ananya Adivi — Data Science and AI"/>
+  <img src="./assets/profile-banner.svg" width="100%" alt="Ananya Adivi — Data Science and AI"/>
 
   <br/>
 
@@ -14,7 +14,7 @@
     alt="Animated introduction"
   />
 
-  <br/>
+  <br/><br/>
 
   <a href="https://www.linkedin.com/in/ananya-adivi-9b6056345/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-24525B?style=for-the-badge&labelColor=13232D&logo=linkedin&logoColor=9CE8E8" alt="LinkedIn"/>
