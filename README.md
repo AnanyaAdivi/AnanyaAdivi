@@ -7,7 +7,7 @@
   <img src="./assets/profile-banner.svg" width="100%" alt="Ananya Adivi — midnight, ice-blue and teal research banner"/>
   <br/>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=18&duration=2800&pause=850&color=8FE3EA&center=true&vCenter=true&width=780&height=48&lines=Finding+insight+in+data%2C+building+with+AI;Exploring+Data+Science+%26+Intelligent+Systems;Interested+in+Reliable+AI+%26+Explainability"
+    src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&duration=3000&pause=950&color=9BE4E6&center=true&vCenter=true&width=780&height=48&lines=Finding+insight+in+data%2C+building+with+AI;Exploring+Data+Science+%26+Intelligent+Systems;Interested+in+Reliable+AI+%26+Explainability"
     alt="Animated tagline"
   />
   <br/>
