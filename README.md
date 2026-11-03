@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/profile-banner-flow.svg" width="100%" alt="Ananya Adivi — Data Science and AI"/>
+  <img src="./assets/profile-banner.gif" width="100%" alt="Ananya Adivi — Data Science and AI"/>
   <br/>
   <img
     src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&duration=3000&pause=950&color=9BE4E6&center=true&vCenter=true&width=780&height=48&lines=Finding+insight+in+data%2C+building+with+AI;Exploring+Data+Science+%26+Intelligent+Systems;Interested+in+Reliable+AI+%26+Explainability"
