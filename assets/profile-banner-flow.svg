@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc"><title id="title">Ananya Adivi — Data Science and AI</title><desc id="desc">A dark editorial banner with high-contrast Didone display lettering, ice-blue and teal accents, and a subtle geometric data-network motif.</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0B1118"/><stop offset="58%" stop-color="#13232D"/><stop offset="100%" stop-color="#173D46"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#67C9D2"/><stop offset="100%" stop-color="#B5F0EA"/></linearGradient><radialGradient id="glow"><stop offset="0%" stop-color="#67C9D2" stop-opacity=".20"/><stop offset="100%" stop-color="#67C9D2" stop-opacity="0"/></radialGradient><pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#B5F0EA" stroke-opacity=".045" stroke-width="1"/></pattern></defs><rect width="1200" height="320" rx="18" fill="url(#bg)"/><rect width="1200" height="320" rx="18" fill="url(#grid)"/><circle cx="1010" cy="142" r="245" fill="url(#glow)"/><path d="M0 286H1200" stroke="#76D5DB" stroke-opacity=".22"/><g>
+  <!-- faint plotting grid -->
+  <g stroke="#9CE8E8" stroke-width="1" opacity=".075">
+    <path d="M790 92H1150M790 132H1150M790 172H1150M790 212H1150M790 252H1150"/>
+    <path d="M810 78V252M870 78V252M930 78V252M990 78V252M1050 78V252M1110 78V252"/>
+  </g>
+  <!-- quiet histogram bars behind the signal -->
+  <g fill="#67C9D2" opacity=".12">
+    <rect x="818" y="218" width="20" height="34" rx="3">
+      <animate attributeName="height" values="26;38;26" dur="5.8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="226;214;226" dur="5.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="870" y="194" width="20" height="58" rx="3">
+      <animate attributeName="height" values="51;64;51" dur="6.4s" begin="-1.8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="201;188;201" dur="6.4s" begin="-1.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="922" y="207" width="20" height="45" rx="3">
+      <animate attributeName="height" values="38;49;38" dur="5.5s" begin="-2.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="214;203;214" dur="5.5s" begin="-2.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="974" y="176" width="20" height="76" rx="3">
+      <animate attributeName="height" values="68;82;68" dur="6.1s" begin="-1.1s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="184;170;184" dur="6.1s" begin="-1.1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1026" y="188" width="20" height="64" rx="3">
+      <animate attributeName="height" values="56;70;56" dur="5.9s" begin="-3.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="196;182;196" dur="5.9s" begin="-3.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="1078" y="150" width="20" height="102" rx="3">
+      <animate attributeName="height" values="94;108;94" dur="6.6s" begin="-2.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="158;144;158" dur="6.6s" begin="-2.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <!-- softly shaded area below the data curve -->
+  <path d="M790 220 C835 207 855 174 900 178 S968 211 1010 158 S1082 117 1145 88 L1145 252 L790 252Z" fill="#67C9D2" opacity=".075"/>
+  <!-- signal glow and main line -->
+  <path d="M790 220 C835 207 855 174 900 178 S968 211 1010 158 S1082 117 1145 88" fill="none" stroke="#75D4DA" stroke-width="8" stroke-linecap="round" opacity=".12"/>
+  <path d="M790 220 C835 207 855 174 900 178 S968 211 1010 158 S1082 117 1145 88" fill="none" stroke="url(#accent)" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M790 220 C835 207 855 174 900 178 S968 211 1010 158 S1082 117 1145 88" fill="none" stroke="#D5FFFF" stroke-width="1.3" stroke-linecap="round" stroke-dasharray="3 13" opacity=".9">
+    <animate attributeName="stroke-dashoffset" from="0" to="-64" dur="4.5s" repeatCount="indefinite"/>
+  </path>
+  <!-- fixed data points with gentle pulses -->
+  <g fill="#A5F2ED">
+    <circle cx="790" cy="220" r="3.5"><animate attributeName="r" values="3;4.5;3" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="178" r="4"><animate attributeName="r" values="3.5;5;3.5" dur="3.8s" begin="-1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1010" cy="158" r="4"><animate attributeName="r" values="3.5;5.5;3.5" dur="3.5s" begin="-.7s" repeatCount="indefinite"/></circle>
+    <circle cx="1145" cy="88" r="4"><animate attributeName="r" values="3;5;3" dur="3.9s" begin="-1.8s" repeatCount="indefinite"/></circle>
+  </g>
+  <!-- moving signal point -->
+  <circle r="12" fill="#67C9D2" opacity=".15">
+    <animateMotion dur="7s" repeatCount="indefinite" path="M790 220 C835 207 855 174 900 178 S968 211 1010 158 S1082 117 1145 88"/>
+    <animate attributeName="r" values="9;15;9" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="4.5" fill="#E2FFFF">
+    <animateMotion dur="7s" repeatCount="indefinite" path="M790 220 C835 207 855 174 900 178 S968 211 1010 158 S1082 117 1145 88"/>
+  </circle>
+  <!-- slow drifting signal particles -->
+  <circle r="2.4" fill="#9CE8E8" opacity=".7">
+    <animateMotion dur="9s" begin="-3s" repeatCount="indefinite" path="M805 115 C865 85 930 110 980 95 S1085 72 1140 120"/>
+    <animate attributeName="opacity" values=".25;.9;.25" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2" fill="#B5F0EA" opacity=".65">
+    <animateMotion dur="11s" begin="-5s" repeatCount="indefinite" path="M820 245 C900 270 960 235 1010 245 S1090 260 1140 220"/>
+    <animate attributeName="opacity" values=".2;.8;.2" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</g><text x="80" y="65" fill="#9CE8E8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="500" letter-spacing="3.2">COMPUTER SCIENCE  /  DATA SCIENCE &amp; AI</text><g fill="#F7F5F1" transform="translate(80 52)"><path d="M 79.75,116.59 H 71.61 L 45.65,42.12 h -4.4 l -23.87,62.7 c -2.09,5.83 -4.18,9.35 -6.05,10.56 -1.43,0.88 -4.07,1.32 -7.92,1.21 V 120 h 23.98 v -3.41 c -4.18,0 -6.49,-0.33 -6.93,-0.99 -0.44,-0.66 -0.66,-1.54 -0.66,-2.53 0,-2.09 0.66,-4.84 1.98,-8.25 l 4.18,-9.9 h 26.51 l 7.48,21.67 h -8.8 V 120 h 28.6 z M 27.5,90.74 40.04,58.51 50.93,90.74 Z m 117.69991,26.29 h -6.38 c -1.43,0 -2.31,-0.88 -2.53,-2.53 V 87.11 c 0,-12.54 -5.83,-18.81 -17.71,-18.81 -4.4,0 -8.58,1.54 -12.21,4.4 -2.31,1.98 -3.96,3.74 -4.62,5.28 v -2.2 c 0,-0.55 0,-1.76 0.11,-3.08 V 69.73 H 83.819907 v 2.97 h 5.17 c 2.42,0 3.63,1.21 3.74,3.74 v 38.06 c -0.22,1.65 -1.1,2.53 -2.53,2.53 h -6.38 V 120 h 26.840003 v -2.97 h -6.38 c -1.43,0 -2.31,-0.88 -2.53,-2.53 V 84.91 c 0,-2.09 1.43,-4.29 4.18,-6.6 2.86,-2.2 5.83,-3.41 9.02,-3.41 7.48,0 12.32,4.95 12.32,13.53 v 26.07 c -0.22,1.65 -1.1,2.53 -2.42,2.53 h -6.49 V 120 h 26.84 z m 55.32992,-0.11 h -6.38 c -1.32,0 -2.53,-0.88 -2.53,-2.42 V 90.52 c 0,-7.59 -1.43,-13.2 -4.29,-16.72 -2.86,-3.19 -7.26,-4.84 -12.98,-4.84 -3.41,0 -6.6,0.55 -9.79,1.76 -4.84,1.98 -7.48,5.17 -7.59,9.57 -0.11,3.85 1.65,5.72 5.39,5.72 1.65,0.33 4.95,-1.21 4.73,-3.52 -0.33,-0.88 -2.53,-2.31 -2.53,-4.18 0.11,-4.18 3.41,-6.27 9.46,-6.27 3.63,0 6.16,1.76 7.59,5.17 0.99,2.42 1.43,6.27 1.32,11.44 l -10.78,1.87 c -6.27,1.1 -11,2.75 -14.19,4.73 -4.51,2.86 -6.71,7.26 -6.71,12.98 0,4.07 1.21,7.37 3.85,9.68 2.42,2.31 5.5,3.41 9.35,3.41 5.83,0 11.99,-3.52 18.48,-10.34 V 120 h 17.6 z m -17.6,-10.34 c -3.41,4.73 -9.24,8.58 -13.86,8.47 -4.51,-0.33 -8.47,-3.63 -8.47,-8.8 0,-4.29 2.64,-8.91 6.6,-10.34 4.51,-1.76 9.68,-2.86 15.73,-3.63 z m 82.72,10.45 h -6.38 c -1.43,0 -2.31,-0.88 -2.53,-2.53 V 87.11 c 0,-12.54 -5.83,-18.81 -17.71,-18.81 -4.4,0 -8.58,1.54 -12.21,4.4 -2.31,1.98 -3.96,3.74 -4.62,5.28 v -2.2 c 0,-0.55 0,-1.76 0.11,-3.08 v -2.97 h -18.04 v 2.97 h 5.17 c 2.42,0 3.63,1.21 3.74,3.74 v 38.06 c -0.22,1.65 -1.1,2.53 -2.53,2.53 h -6.38 V 120 h 26.84 v -2.97 h -6.38 c -1.43,0 -2.31,-0.88 -2.53,-2.53 V 84.91 c 0,-2.09 1.43,-4.29 4.18,-6.6 2.86,-2.2 5.83,-3.41 9.02,-3.41 7.48,0 12.32,4.95 12.32,13.53 v 26.07 c -0.22,1.65 -1.1,2.53 -2.42,2.53 h -6.49 V 120 h 26.84 z m 10.11992,-41.8 c 10.56,24.97 16.94,40.7 17.38,42.35 0.44,1.76 1.1,3.3 1.32,4.84 -0.55,2.2 -1.43,4.95 -2.86,8.03 l -0.22,0.66 c -1.1,2.53 -2.53,4.62 -4.07,6.38 -1.43,1.43 -2.53,2.31 -3.52,2.64 -0.55,0.22 -1.54,0.11 -2.97,-0.22 -1.87,-0.33 -2.86,-0.66 -2.97,-0.66 -3.08,-0.22 -4.95,0.88 -5.28,3.52 -0.44,1.87 0.33,3.3 1.87,4.07 1.32,0.66 2.53,0.88 3.96,0.88 1.87,0 2.97,-0.22 3.63,-0.44 1.87,-0.66 3.85,-2.2 6.16,-4.4 2.31,-2.09 4.84,-6.6 7.7,-13.42 1.21,-2.86 2.31,-5.94 3.41,-9.57 l 18.37,-42.46 c 1.32,-3.08 2.97,-4.73 5.06,-4.73 h 2.86 v -2.97 h -20.02 v 2.97 h 5.5 c 1.43,0 1.87,0.44 1.87,1.76 0,0.88 -0.22,1.87 -0.66,2.97 l -12.98,32.67 -13.09,-34.1 c -0.22,-0.44 -0.33,-0.77 -0.33,-1.21 0,-1.43 0.99,-2.09 2.86,-2.09 0.66,0 1.65,0 5.17,0 v -2.97 h -25.41 v 2.97 h 3.41 c 1.43,0 3.08,0.55 3.85,2.53 z m 101.31004,41.69 h -6.38 c -1.32,0 -2.53,-0.88 -2.53,-2.42 V 90.52 c 0,-7.59 -1.43,-13.2 -4.29,-16.72 -2.86,-3.19 -7.26,-4.84 -12.98,-4.84 -3.41,0 -6.6,0.55 -9.79,1.76 -4.84,1.98 -7.48,5.17 -7.59,9.57 -0.11,3.85 1.65,5.72 5.39,5.72 1.65,0.33 4.95,-1.21 4.73,-3.52 -0.33,-0.88 -2.53,-2.31 -2.53,-4.18 0.11,-4.18 3.41,-6.27 9.46,-6.27 3.63,0 6.16,1.76 7.59,5.17 0.99,2.42 1.43,6.27 1.32,11.44 l -10.78,1.87 c -6.27,1.1 -11,2.75 -14.19,4.73 -4.51,2.86 -6.71,7.26 -6.71,12.98 0,4.07 1.21,7.37 3.85,9.68 2.42,2.31 5.5,3.41 9.35,3.41 5.83,0 11.99,-3.52 18.48,-10.34 V 120 h 17.6 z m -17.6,-10.34 c -3.41,4.73 -9.24,8.58 -13.86,8.47 -4.51,-0.33 -8.47,-3.63 -8.47,-8.8 0,-4.29 2.64,-8.91 6.6,-10.34 4.51,-1.76 9.68,-2.86 15.73,-3.63 z m 138.2699,10.01 h -8.14 l -25.96,-74.47 h -4.4 l -23.87,62.7 c -2.09,5.83 -4.18,9.35 -6.05,10.56 -1.43,0.88 -4.07,1.32 -7.92,1.21 V 120 h 23.98 v -3.41 c -4.18,0 -6.49,-0.33 -6.93,-0.99 -0.44,-0.66 -0.66,-1.54 -0.66,-2.53 0,-2.09 0.66,-4.84 1.98,-8.25 l 4.18,-9.9 h 26.51 l 7.48,21.67 h -8.8 V 120 h 28.6 z m -52.25,-25.85 12.54,-32.23 10.89,32.23 z m 119.45991,26.29 h -6.6 c -1.43,0 -2.31,-0.99 -2.42,-2.64 V 42.67 h -18.15 v 3.08 h 5.17 c 2.42,0 3.85,1.21 3.96,3.85 v 23.76 c -0.77,-1.43 -2.31,-2.64 -4.62,-3.85 -2.53,-1.1 -5.5,-1.87 -8.58,-2.2 -7.92,-0.33 -14.63,2.2 -20.13,7.48 -5.39,5.17 -8.03,11.77 -8.03,20.02 0,7.7 1.76,13.86 5.5,18.7 4.07,5.28 9.79,7.92 17.16,7.92 4.51,0 8.8,-1.32 12.43,-3.96 2.97,-1.98 5.28,-4.4 6.6,-7.15 l -0.44,9.68 h 18.15 z m -18.04,-22.44 c 0,5.5 -0.99,10.12 -3.08,13.75 -2.53,4.4 -6.38,6.71 -11.55,6.71 -5.39,0 -9.79,-2.42 -13.2,-7.37 -3.19,-4.4 -4.51,-9.68 -4.07,-15.07 0.55,-7.48 2.53,-12.87 5.94,-16.61 2.97,-3.08 6.6,-4.62 10.89,-4.62 6.82,0 13.53,4.29 15.07,9.24 z m 41.57993,-41.91 c 0,-3.63 -2.64,-5.94 -6.05,-5.94 -2.97,0 -5.83,2.97 -5.83,5.94 0,3.08 2.86,5.83 5.83,5.83 3.19,0 6.16,-2.75 6.05,-5.83 z m -0.88,17.16 h -17.82 v 2.97 h 6.38 c 1.32,0 2.2,0.88 2.42,2.53 v 39.16 c 0,1.65 -1.1,2.53 -2.42,2.53 h -6.38 V 120 h 26.62 v -2.97 h -6.38 c -1.32,0 -2.42,-0.88 -2.42,-2.53 z m 68.42005,-0.11 h -20.13 v 2.97 h 5.5 c 1.32,0 1.87,0.44 1.87,1.76 0,0.88 -0.33,1.87 -0.77,2.97 l -12.87,32.78 -13.2,-34.32 c -0.11,-0.33 -0.22,-0.66 -0.22,-1.1 0,-1.32 0.99,-2.09 2.86,-2.09 0.66,0 1.65,0 5.17,0 v -2.97 h -25.52 v 2.97 h 3.52 c 1.32,0 2.97,0.66 3.74,2.53 l 18.37,44.77 h 5.28 l 18.37,-42.57 c 1.43,-3.08 3.08,-4.73 5.17,-4.73 h 2.86 z m 22.00011,-17.05 c 0,-3.63 -2.64,-5.94 -6.05,-5.94 -2.97,0 -5.83,2.97 -5.83,5.94 0,3.08 2.86,5.83 5.83,5.83 3.19,0 6.16,-2.75 6.05,-5.83 z m -0.88,17.16 h -17.82 v 2.97 h 6.38 c 1.32,0 2.2,0.88 2.42,2.53 v 39.16 c 0,1.65 -1.1,2.53 -2.42,2.53 h -6.38 V 120 h 26.62 v -2.97 h -6.38 c -1.32,0 -2.42,-0.88 -2.42,-2.53 z"/></g><rect x="80" y="202" width="92" height="2.5" rx="1.25" fill="url(#accent)"/><text x="80" y="244" fill="#C5D7DD" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400" letter-spacing=".35">Curious about data. Inspired by intelligent systems.</text><text x="80" y="284" fill="#79C9D1" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="500" letter-spacing="2.2">DATA SCIENCE  ·  MACHINE LEARNING  ·  RELIABLE AI</text><rect x=".75" y=".75" width="1198.5" height="318.5" rx="18" fill="none" stroke="#9CE8E8" stroke-opacity=".20" stroke-width="1.5"/></svg>
