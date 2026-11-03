@@ -15,7 +15,10 @@
   &nbsp;
   <a href="mailto:adiviananya@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-24525B?style=for-the-badge&labelColor=13232D&logo=gmail&logoColor=9CE8E8" alt="Email"/></a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=AnanyaAdivi&style=flat-square&color=24525B&label=PROFILE+VIEWS" alt="Profile visits"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=14&duration=2400&pause=650&color=79C9D1&center=true&vCenter=true&width=720&height=32&lines=DATA+SCIENCE+%26+ANALYTICS;MACHINE+LEARNING+%26+AI;RELIABLE+%26+EXPLAINABLE+AI;COMPUTER+VISION"
+    alt="Animated research interests"
+  />
 </div>
 
 ---
