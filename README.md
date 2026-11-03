@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="./assets/profile-banner.svg" width="100%" alt="Ananya Adivi — Data Science and AI"/>
+  <img src="./assets/profile-banner-final.svg" width="100%" alt="Ananya Adivi — Data Science and AI"/>
 
   <br/>
 
